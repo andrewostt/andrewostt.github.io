@@ -1,0 +1,22 @@
+h1{
+    font-size: 60px;
+    text-align: center;
+    font-style: italic;
+    color: grey;
+}
+.special{
+    font-size: 40px;
+    text-align: center;
+    font-style: italic;
+    color: grey;
+}
+h2{
+    font-size: 20px;
+    text-align: left;
+    color: grey;
+}
+li{
+    font-size: 10px;
+    text-align: left;
+    color: black;
+}
